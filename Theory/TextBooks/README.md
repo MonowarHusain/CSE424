@@ -1,1 +1,1 @@
-https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+Pattern Recognition and Machine Learning (PRML), Christopher M. Bishop, Springer, http://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning
